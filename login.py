@@ -10,7 +10,7 @@ token = config['setting']['TOKEN']
 
 client = discord.Client()
 
-succes_password = '123'
+succes_password = ''
 
 password = input("비밀번호를 입력해주세요\n")
 
